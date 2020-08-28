@@ -1,0 +1,33 @@
+html {
+    display: block;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-image: linear-gradient(to bottom left, black, white);
+    overflow: hidden;
+    font-family: 'Roboto', Helvetica, sans-serif;
+}
+
+.out1 {
+    display: block;
+    position: absolute;
+    top: 25%;
+    width: 100%;
+    text-align: center;
+}
+
+.out2 {
+    display: block;
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+}
+
+button {
+    border-style: none;
+    border-radius: 5px;
+    width: 50%;
+    height: 50px;
+    font-size: larger;
+    background-color: #2fff8d;
+}
