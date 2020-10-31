@@ -27,7 +27,8 @@ let meals = [
     "Kartoffelsalat",
     "gebratener Blumenkohl",
     "Ofengemüse, Kartoffeln und Haloumi/Feta",
-    "Kartoffeln, Blumenkohl und Soße"
+    "Kartoffeln, Blumenkohl und Soße",
+    "Pizzabrötchen"
 ];
 
 function next() {
